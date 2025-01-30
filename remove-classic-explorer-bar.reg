@@ -1,0 +1,1 @@
+reg add "HKCU\Software\Classes\CLSID\{553891B7-A0D5-4526-BE18-D3CE461D6310}\InprocServer32" /f /ve
